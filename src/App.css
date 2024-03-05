@@ -1,5 +1,12 @@
+
+
 .App {
   text-align: center;
+}
+
+#todo-app {
+  margin:auto;
+  width:500px;
 }
 
 .App-logo {
